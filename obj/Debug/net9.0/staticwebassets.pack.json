@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ruturajdeshmukh/Desktop/ASPNETMVC/FirstCoreMVCAPP/wwwroot/Sample.png",
+      "PackagePath": "staticwebassets/Sample.png"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.FirstCoreMVCAPP.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.FirstCoreMVCAPP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.FirstCoreMVCAPP.props",
+      "PackagePath": "build\\FirstCoreMVCAPP.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.FirstCoreMVCAPP.props",
+      "PackagePath": "buildMultiTargeting\\FirstCoreMVCAPP.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.FirstCoreMVCAPP.props",
+      "PackagePath": "buildTransitive\\FirstCoreMVCAPP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
