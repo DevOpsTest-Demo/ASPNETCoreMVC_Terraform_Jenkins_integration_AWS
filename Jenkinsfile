@@ -19,7 +19,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 echo "Stage Checkout started!!!!!"
-                git url: 'https://github.com/yourname/your-repo.git', branch: 'master'
+                git url: 'https://github.com/DevOpsTest-Demo/ASPNETCoreMVC_Terraform_Jenkins_integration_AWS.git', branch: 'master'
                 echo "Stage Checkout finished successfully!!!!!"
             }
         }
