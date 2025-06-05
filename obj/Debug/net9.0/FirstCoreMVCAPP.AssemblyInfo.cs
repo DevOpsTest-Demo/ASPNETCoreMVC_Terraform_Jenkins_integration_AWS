@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirstCoreMVCAPP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+374bd44e9537bd0836830e2b3bcfc8b6e612d978")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7be51d895888ca2e3686c5b44276b6c280a41f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirstCoreMVCAPP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirstCoreMVCAPP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
